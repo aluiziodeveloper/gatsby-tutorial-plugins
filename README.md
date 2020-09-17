@@ -9,11 +9,11 @@ Informação sobre tecnologia, dicas, tutoriais, mini-cursos e muito mais.
 
 ## Mini Curso - Criação de Sites com Gatsby
 
-Seja bem-vindo a este mini curso onde estaremos conhecendo o framework GatsbyJS, excelente ferramenta para desenvolvimento de sites, PWAs, aplicativos, etc...
+Seja bem-vindo a este mini curso onde estaremos conhecendo o framework [GatsbyJS](https://gatsbyjs.com), excelente ferramenta para desenvolvimento de sites, PWAs, aplicativos, etc.
 
 O Gatsby é open source e foi desenvolvido usando o ReactJS como base.
 
-As soluções desenvolvidas a partir do Gatsby têm como características o alto desempenho, escabalabilidade, segurança, tudo já integrado fornecido pelo Gatsby.
+As soluções desenvolvidas a partir do Gatsby têm como características o alto desempenho, escalabilidade, segurança, tudo já integrado fornecido pelo Gatsby.
 
 O que faremos neste mini curso é trilhar um tutorial do Gatsby para conhecermos os principais recursos e as boas práticas na criação de projetos com o Gatsby.
 
