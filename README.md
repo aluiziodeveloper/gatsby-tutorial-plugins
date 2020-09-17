@@ -11,6 +11,8 @@ Informação sobre tecnologia, dicas, tutoriais, mini-cursos e muito mais.
 
 Seja bem-vindo a este mini curso onde estaremos conhecendo o framework [GatsbyJS](https://gatsbyjs.com), excelente ferramenta para desenvolvimento de sites, PWAs, aplicativos, etc.
 
+[Playlist no YouTube deste Mini Curso sobre Gatsby](https://www.youtube.com/watch?v=ePSbIULH_4U&list=PLE0DHiXlN_qpnXhB6h4_1H1yWcoVJJwFJ)
+
 O Gatsby é open source e foi desenvolvido usando o ReactJS como base.
 
 As soluções desenvolvidas a partir do Gatsby têm como características o alto desempenho, escalabilidade, segurança, tudo já integrado fornecido pelo Gatsby.
